@@ -14,7 +14,7 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
 
 Sou um jovem de 17 anos apaixonado por computação, música e aviação, com uma forte formação em disciplina e respeito adquirida na Escola Militar. Desde criança, tenho fascínio por computadores e tecnologia, e tenho familiares que atuam como programadores, o que despertou em mim o desejo de seguir essa carreira.
 
-hÁBILIDADES E CARACTERÍSTICAS
+HÁBILIDADES E CARACTERÍSTICAS
 
 Computação: Interesse profundo por tecnologia e desenvolvimento de software.
 Música: Experiência prática e teórica em música.
