@@ -17,9 +17,13 @@ Sou um jovem de 17 anos apaixonado por computação, música e aviação, com um
 HÁBILIDADES E CARACTERÍSTICAS
 
 Computação: Interesse profundo por tecnologia e desenvolvimento de software.
+
 Música: Experiência prática e teórica em música.
+
 Aviação e Militarismo: Admirador de aeronaves, tanques e veículos militares.
+
 Escola Militar: Formação sólida em disciplina, respeito e liderança.
+
 Relacionamento Interpessoal: Habilidade em lidar com pessoas e situações desafiadoras com calma e empatia.
 
 OBJETIVOS PROFISSIONAIS
@@ -27,5 +31,7 @@ OBJETIVOS PROFISSIONAIS
 Busco aprimorar meus conhecimentos em computação e programação, com o objetivo de:
 
 Estágio como Desenvolvedor: Aplicar meus aprendizados em projetos reais.
+
 Carreira como Programador: Desenvolver soluções inovadoras e impactantes.
+
 Contribuição para a Sociedade: Utilizar a tecnologia para resolver problemas e melhorar a vida das pessoas.
